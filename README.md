@@ -10,6 +10,16 @@ It should be noted that the slides are used as talking points and do not encompa
 
 While I am happy for people to reference the material I would be grateful if any copies reference this repository or my blog.
 
-File Hashes
+## File Hashes
 
-Name:
+Name: Get-SupportInfo - PowerShell Support Tool.pptx
+
+* MD5: 
+* SHA1: 
+* SHA256:
+
+Name: Get-SupportInfo - PowerShell Support Tool.pdf
+
+* MD5: 
+* SHA1: 
+* SHA256:
